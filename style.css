@@ -1,0 +1,10 @@
+*{
+    box-sizing:border-box;
+}
+header,
+section{
+    overflow-x: hidden;
+}
+header .carousel-inner img{
+    height: 38rem;
+}
